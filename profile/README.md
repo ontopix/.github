@@ -34,7 +34,7 @@ Utilities that power our development.
 
 - [**Xil**](https://github.com/ontopix/xil) — CLI for managing and deploying ElevenLabs conversational agents.
 - [**Audit Utils**](https://github.com/ontopix/audit-utils) — Python library for audit data processing.
-
+- [**Audit Explorer**](https://github.com/ontopix/audit-explorer) - Desktop tool to explore customer-interactions and audit information.
 
 ## 🧪 Labs & Demos
 
