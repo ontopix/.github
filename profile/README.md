@@ -26,7 +26,6 @@ Our main applications, data services, and foundational standards.
 Infrastructure as Code and cloud management.
 
 - [**Infra**](https://github.com/ontopix/infra) — Global Ontopix infrastructure definitions (Terraform).
-- [**AWS IAM**](https://github.com/ontopix/terraform-aws-iam) — Modular AWS IAM management for security and access control.
 
 ## 🛠️ Tools & Libraries
 
