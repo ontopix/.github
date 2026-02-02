@@ -3,7 +3,7 @@
 ### **AI Virtual Agents for Customer Service**
 > We build intelligent agents that understand context, speak naturally, and resolve issues 24/7.
 
-[Website](https://ontopix.ai) • [LinkedIn](https://www.linkedin.com/company/ontopix)
+[Website](https://ontopix.ai) • [LinkedIn](https://www.linkedin.com/company/ontopix) • [**Docs**](https://docs.ontopix.dev)
 
 ---
 
@@ -12,6 +12,7 @@
 The foundation of how we build products at Ontopix.
 
 - [**Engineering Handbook**](https://github.com/ontopix/engineering-handbook) — **Must Read**. Our single source of truth for engineering principles, architectural patterns, and decision records.
+- [**Documentation Portal**](https://github.com/ontopix/docs.dev) — A single source of truth for internal documentation across engineering, design, legal, marketing, architecture and more.
 
 ## 🚀 Platform Core
 
